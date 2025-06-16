@@ -1,0 +1,25 @@
+HockeyPlayer: Liam Carter,27,Canada,3500000
+Swimmer: Ava Thompson,23,Freestyle,USA,250000,52.3
+HockeyPlayer: Jakub Novak,24,Czech Republic,2800000.0,Defenseman,7,Bauer,10
+HockeyPlayer: Alexei Petrov,30,Russia,4000000.0,Goalie,0,Warrior,11
+HockeyPlayer: Noah Müller,25,Germany,3100000.0,Forward,25,CCM,10
+HockeyPlayer: James O'Neill,29,USA,3750000.0,Defenseman,12,True,9
+HockeyPlayer: Mika Hirano,26,Japan,2600000.0,Goalie,1,Bauer,10
+HockeyPlayer: Sven Johansson,28,Sweden,3400000.0,Forward
+Swimmer: Carlos Vega,25,Backstroke,Spain,220000,
+HockeyPlayer: Étienne Dubois,31,France,2900000.0,Defenseman,10,CCM,9
+BasketballPlayer: Jaylen Moore,24,Chicago Blaze,8,USA,4500000,Nike,0.38,6
+BasketballPlayer: Emmanuel Zhou,28,Beijing Thunder,11,,,Li-Ning,0.33,
+BasketballPlayer: Miles Okafor,22,Lagos Lions,4,,,,,
+FootballPlayer: Tyrone Jackson,29,Atlanta Hawks,12,USA,5200000,Nike,18,3500
+FootballPlayer: Luis Ramirez,26,Madrid Titans,9,Spain,,Adidas,14,
+FootballPlayer: Connor O'Reilly,31,Dublin Warriors,4,Ireland,4700000,,21
+FootballPlayer: Isaiah Bennett,28,Miami Wave,7,USA,,,16,3300
+FootballPlayer: Frederik Olsen,25,Copenhagen Knights,10,Denmark,,,,2800
+FootballPlayer: Kofi Mensah,24,Accra Storm,2
+Swimmer: Lina Sato,27,Butterfly,Japan,,56.8
+Swimmer: Nina Petrovic,30,Breaststroke,,,,
+Swimmer: Omar El-Sayed,22,Freestyle,Egypt,,51.9
+BasketballPlayer: Carlos Mendes,26,São Paulo Panthers,3,Brazil,3100000,,,
+BasketballPlayer: Darius Green,30,Brooklyn Sparks,7,USA,,Under Armour,0.41,5
+BasketballPlayer: Anton Petrov,25,Moscow Giants,15,Russia,3750000,,0.36,
